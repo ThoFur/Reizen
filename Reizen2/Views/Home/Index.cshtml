@@ -1,0 +1,11 @@
+﻿@using Model.Entities
+@model IEnumerable<Werelddeel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2>Werelddelen</h2>
+@foreach (var wd in Model)
+{
+    <a>@wd.Naam</a>
+}
