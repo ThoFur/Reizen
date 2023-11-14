@@ -11,6 +11,7 @@ builder.Services.AddDbContext<ReizenContext>(options =>
 
 builder.Services.AddTransient<IWerelddelenRepository, SQLWerelddelenRepository>();
 
+builder.Services.AddSession();
 
 builder.Services.AddControllersWithViews();
 
@@ -24,6 +25,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.UseSession();
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 

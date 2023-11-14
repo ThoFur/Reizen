@@ -1,0 +1,22 @@
+﻿@using Model.Entities;
+@model IEnumerable<Bestemming>
+@{
+    ViewData["Title"] = "LandDetail";
+}
+<h3>@ViewBag.land</h3>
+@{
+    var url = Url.Content("~/images/" + ViewBag.land + ".png");
+    
+}
+<div><img src="@url" alt="vlag" /></div>
+
+@if (Model != null)
+{
+    <ul>
+        @foreach (var best in Model)
+        {
+            
+            <li><a asp-action="BestemmingDetail" asp-route-code="@best.Code">@best.Plaats</a></li>
+        }
+    </ul>
+}

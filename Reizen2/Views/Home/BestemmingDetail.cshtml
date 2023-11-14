@@ -1,0 +1,41 @@
+﻿@using Model.Entities
+@model IEnumerable<Reis>
+@{
+    ViewData["Title"] = "BestemmingDetail";
+}
+<h3>@ViewBag.bestemming</h3>
+@{ 
+    var url = Url.Content("~/images/" + ViewBag.bestemming  + ".jpg"); 
+}
+<div><img src="@url" alt="Bestemming" /></div>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Vertrek</th>
+            <th>Prijs per persoon</th>
+            <th>Aantal dagen</th>
+            <th>Boeken</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var reis in Model)
+        {
+            <tr>
+                <td>@reis.Vertrek</td>
+                <td>@reis.PrijsPerPersoon</td>
+                <td>@reis.AantalDagen</td>
+                @if(reis.Vertrek > DateTime.Now)
+                {
+
+                    <td><a asp-action="Boeken" asp-route-id="@reis.Id" asp-route-bestemming="@ViewBag.bestemming"  >Boeken</a></td>
+                }
+                else
+                {
+                    <td>Te laat...</td>
+                }
+                
+            </tr>
+        }
+    </tbody>
+</table>

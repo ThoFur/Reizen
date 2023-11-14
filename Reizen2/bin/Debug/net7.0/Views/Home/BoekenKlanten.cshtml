@@ -1,0 +1,48 @@
+﻿@model BoekenKlantenViewModel
+<h3>Bestemming</h3>
+<p>@Model.BoekenViewModel.Bestemming</p>
+
+<h3>Vertrek</h3>
+<p>@(Model.BoekenViewModel.Reis != null ? Model.BoekenViewModel.Reis.Vertrek : "N/A")</p>
+
+<h3>Aantal Dagen</h3>
+<p>@(Model.BoekenViewModel.Reis != null ? Model.BoekenViewModel.Reis.AantalDagen : "N/A")</p>
+
+<h3>Prijs per persoon</h3>
+<p>@(Model.BoekenViewModel.Reis != null ? Model.BoekenViewModel.Reis.PrijsPerPersoon : "N/A")</p>
+
+
+<form asp-action="KlantZoeken" asp-route-naam="naam" method="Get">
+    <div>
+        <label>Familienaam bevat:<input name="naam" /></label>
+    </div>
+    <input type="submit" value="Zoeken" class="btn btn-primary ms-3 mt-2" />
+</form>
+@if (Model.BoekenViewModel.Klanten != null)
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Familienaam</th>
+                <th>Voornaam</th>
+                <th>Adres</th>
+                <th>Postcode</th>
+                <th>Woonplaats</th>
+                <th>Boeken</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var klant in Model.BoekenViewModel.Klanten)
+            {
+                <tr>
+                    <td>@klant.Familienaam</td>
+                    <td>@klant.Voornaam</td>
+                    <td>@klant.Adres</td>
+                    <td>@klant.Woonplaats.Postcode</td>
+                    <td>@klant.Woonplaats.Naam</td>
+                    <td><a asp-action="Boeking" asp-route-id="@klant.Id">Boeken</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

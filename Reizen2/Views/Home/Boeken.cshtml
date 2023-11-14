@@ -1,0 +1,62 @@
+﻿
+
+@model BoekenKlantenViewModel 
+
+
+<h3>Bestemming</h3>
+<p>@Model.BoekenViewModel.Bestemming</p>
+
+<h3>Vertrek</h3>
+<p>@Model.BoekenViewModel.Reis.Vertrek</p>
+
+<h3>Aantal Dagen</h3>
+<p>@Model.BoekenViewModel.Reis.AantalDagen</p>
+
+<h3>Prijs per persoon</h3>
+<p>@Model.BoekenViewModel.Reis.PrijsPerPersoon</p>
+
+
+<form asp-action="KlantZoeken" asp-route-naam="naam" method="Get">
+    <div>
+        <label>Familienaam bevat:<input name="naam" /></label>
+    </div>
+    <input type="submit" value="Zoeken" class="btn btn-primary ms-3 mt-2" />
+</form>
+   
+
+@if (Model.Klanten != null)
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Familienaam</th>
+                <th>Voornaam</th>
+                <th>Adres</th>
+                <th>Postcode</th>
+                <th>Woonplaats</th>
+                <th>Boeken</th>
+
+            </tr>
+
+        </thead>
+        <tbody>
+            @foreach (var klant in Model.Klanten)
+            {
+                <tr>
+                    <td>@klant.Familienaam</td>
+                    <td>@klant.Voornaam</td>
+                    <td>@klant.Adres</td>
+                    <td>@klant.Woonplaats.Postcode</td>
+                    <td>@klant.Woonplaats.Naam</td>
+                    <td><a>Boeken</a></td>
+
+                </tr>
+
+            }
+        </tbody>
+
+
+    </table>
+
+
+}

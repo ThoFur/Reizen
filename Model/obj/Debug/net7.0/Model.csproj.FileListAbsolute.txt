@@ -1,3 +1,4 @@
+C:\Users\Cursist\VDABOefeningen\Reizen2\Model\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\Cursist\VDABOefeningen\Reizen2\Model\bin\Debug\net7.0\Model.deps.json
 C:\Users\Cursist\VDABOefeningen\Reizen2\Model\bin\Debug\net7.0\Model.runtimeconfig.json
 C:\Users\Cursist\VDABOefeningen\Reizen2\Model\bin\Debug\net7.0\Model.dll
@@ -12,5 +13,3 @@ C:\Users\Cursist\VDABOefeningen\Reizen2\Model\obj\Debug\net7.0\refint\Model.dll
 C:\Users\Cursist\VDABOefeningen\Reizen2\Model\obj\Debug\net7.0\Model.pdb
 C:\Users\Cursist\VDABOefeningen\Reizen2\Model\obj\Debug\net7.0\Model.genruntimeconfig.cache
 C:\Users\Cursist\VDABOefeningen\Reizen2\Model\obj\Debug\net7.0\ref\Model.dll
-C:\Users\Cursist\VDABOefeningen\Reizen2\Model\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Cursist\VDABOefeningen\Reizen2\Model\bin\Debug\net7.0\appsettings.json

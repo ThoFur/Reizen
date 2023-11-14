@@ -1,0 +1,15 @@
+﻿@using Model.Entities;
+@model IEnumerable<Land>
+@{
+    ViewData["Title"] = "Detail";
+}
+<h3>@ViewBag.naam</h3>
+@if(Model != null)
+{
+    <ul>
+    @foreach (var land in Model)
+    {
+        <li><a asp-action="LandDetail" asp-route-id="@land.Id">@land.Naam</a></li>
+    }
+    </ul>
+}
