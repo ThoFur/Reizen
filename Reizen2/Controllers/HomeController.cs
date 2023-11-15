@@ -111,6 +111,7 @@ namespace Reizen2.Controllers
             var bestemming = HttpContext.Session.GetString("Bestemming");
             var reisId = HttpContext.Session.GetInt32("ReisId");
             var klant = werelddelenRepository.GetKlant(id);
+            HttpContext.Session.SetInt32("KlantId", id);
 
             var reis = werelddelenRepository.GetReis((int)reisId);
 
@@ -124,6 +125,29 @@ namespace Reizen2.Controllers
             return View(viewModel);
 
 
+        }
+
+        [HttpPost] //deze nog aanpassen alsook int wdRpty, Id autonumber
+        public IActionResult BoekingDoen(int aantalVol, int aantalKind, bool annulatieVerzekering)
+        {
+            var reisId = HttpContext.Session.GetInt32("ReisId");
+            var reis = werelddelenRepository.GetReis((int)reisId);
+            var klantId = HttpContext.Session.GetInt32("KlantId");
+            var klant = werelddelenRepository.GetKlant((int)klantId);
+            var boeking = new Boeking
+            {
+
+                Klantid = (int)klantId,
+                Reisid = (int)reisId,
+                GeboektOp = DateTime.Now,
+                AantalKinderen = aantalKind,
+                AantalVolwassenen = aantalVol,
+                AnnulatieVerzekering = annulatieVerzekering
+
+            };
+           werelddelenRepository.DoeBoeking(boeking);
+            ViewBag.Boeking = boeking.Id;
+            return View("BoekingToegevoegd", boeking);
         }
         public IActionResult Privacy()
         {

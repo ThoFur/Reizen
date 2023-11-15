@@ -35,6 +35,7 @@ public partial class ReizenContext : DbContext
     public virtual DbSet<Werelddeel> Werelddelen { get; set; }
 
     public virtual DbSet<Woonplaats> Woonplaatsen { get; set; }
+    
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
