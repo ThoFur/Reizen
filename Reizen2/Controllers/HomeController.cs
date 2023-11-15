@@ -128,7 +128,7 @@ namespace Reizen2.Controllers
         }
 
         [HttpPost] //deze nog aanpassen alsook int wdRpty, Id autonumber
-        public IActionResult BoekingDoen(int aantalVol, int aantalKind, bool annulatieVerzekering)
+        public IActionResult BoekingDoen(int aantalVol, int aantalKind, [FromForm]bool annulatieVerzekering)
         {
             var reisId = HttpContext.Session.GetInt32("ReisId");
             var reis = werelddelenRepository.GetReis((int)reisId);
