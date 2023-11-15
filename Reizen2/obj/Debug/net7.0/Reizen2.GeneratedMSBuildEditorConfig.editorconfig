@@ -9,61 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Reizen2
 build_property.RootNamespace = Reizen2
-build_property.ProjectDir = C:\Users\Cursist\VDABOefeningen\Reizen2\Reizen2\
+build_property.ProjectDir = C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Cursist\VDABOefeningen\Reizen2\Reizen2
+build_property.MSBuildProjectDirectory = C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Cursist/VDABOefeningen/Reizen2/Reizen2/Views/Home/BestemmingDetail.cshtml]
+[C:/Users/Thoma/OneDrive/ProjectenMVC/Reizen/Reizen2/Views/Home/BestemmingDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCZXN0ZW1taW5nRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cursist/VDABOefeningen/Reizen2/Reizen2/Views/Home/Boeken.cshtml]
+[C:/Users/Thoma/OneDrive/ProjectenMVC/Reizen/Reizen2/Views/Home/Boeken.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2VrZW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cursist/VDABOefeningen/Reizen2/Reizen2/Views/Home/BoekenKlanten.cshtml]
+[C:/Users/Thoma/OneDrive/ProjectenMVC/Reizen/Reizen2/Views/Home/BoekenKlanten.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2VrZW5LbGFudGVuLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cursist/VDABOefeningen/Reizen2/Reizen2/Views/Home/Boeking.cshtml]
+[C:/Users/Thoma/OneDrive/ProjectenMVC/Reizen/Reizen2/Views/Home/Boeking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2VraW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cursist/VDABOefeningen/Reizen2/Reizen2/Views/Home/Detail.cshtml]
+[C:/Users/Thoma/OneDrive/ProjectenMVC/Reizen/Reizen2/Views/Home/BoekingToegevoegd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2VraW5nVG9lZ2V2b2VnZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Thoma/OneDrive/ProjectenMVC/Reizen/Reizen2/Views/Home/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cursist/VDABOefeningen/Reizen2/Reizen2/Views/Home/Index.cshtml]
+[C:/Users/Thoma/OneDrive/ProjectenMVC/Reizen/Reizen2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cursist/VDABOefeningen/Reizen2/Reizen2/Views/Home/LandDetail.cshtml]
+[C:/Users/Thoma/OneDrive/ProjectenMVC/Reizen/Reizen2/Views/Home/LandDetail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMYW5kRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cursist/VDABOefeningen/Reizen2/Reizen2/Views/Home/Privacy.cshtml]
+[C:/Users/Thoma/OneDrive/ProjectenMVC/Reizen/Reizen2/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cursist/VDABOefeningen/Reizen2/Reizen2/Views/Shared/Error.cshtml]
+[C:/Users/Thoma/OneDrive/ProjectenMVC/Reizen/Reizen2/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cursist/VDABOefeningen/Reizen2/Reizen2/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Thoma/OneDrive/ProjectenMVC/Reizen/Reizen2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cursist/VDABOefeningen/Reizen2/Reizen2/Views/_ViewImports.cshtml]
+[C:/Users/Thoma/OneDrive/ProjectenMVC/Reizen/Reizen2/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cursist/VDABOefeningen/Reizen2/Reizen2/Views/_ViewStart.cshtml]
+[C:/Users/Thoma/OneDrive/ProjectenMVC/Reizen/Reizen2/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Cursist/VDABOefeningen/Reizen2/Reizen2/Views/Shared/_Layout.cshtml]
+[C:/Users/Thoma/OneDrive/ProjectenMVC/Reizen/Reizen2/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3oin0s4evk

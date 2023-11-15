@@ -23,3 +23,12 @@
 
 <h1>Boeking</h1>
 @*Nog aanvullen met form Boeking*@
+<form asp-action="BoekingDoen"  method="Post">
+    <div>
+        <label>Aantal Volwassenen: <input name="aantalVol" /></label><br />
+        <label>Aantal Kinderen: <input name="aantalKind" /></label><br />
+        <label><input type="checkbox" name="annulatieVerzekering" checked="checked" /> annulatieVerzekering</label><br />
+        
+    </div>
+    <input type="submit" value="Boeken" class="btn btn-primary ms-3 mt-2" />
+</form>
