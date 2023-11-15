@@ -7,5 +7,6 @@ namespace Reizen2.Models
         public string Bestemming { get; set; }
         public Reis Reis { get; set; }
         public Klant Klant { get; set; }
+        public bool AnnulatieVerzekering { get; set; }
     }
 }
