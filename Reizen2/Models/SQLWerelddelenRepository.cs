@@ -47,5 +47,14 @@ namespace Reizen2.Models
         {
             return context.Klanten.Include(W => W.Woonplaats).Where(k => k.Id == id).FirstOrDefault();
         }
+
+       
+
+        void IWerelddelenRepository.DoeBoeking(Boeking boeking)
+        {
+            context.Boekingen.Add(boeking);
+            context.SaveChanges();
+            
+        }
     }
 }

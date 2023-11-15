@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Cursist\\VDABOefeningen\\Reizen2\\Tests\\Tests.csproj": {}
+    "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Tests\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Cursist\\VDABOefeningen\\Reizen2\\Tests\\Tests.csproj": {
+    "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Cursist\\VDABOefeningen\\Reizen2\\Tests\\Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\Cursist\\VDABOefeningen\\Reizen2\\Tests\\Tests.csproj",
-        "packagesPath": "C:\\Users\\Cursist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Cursist\\VDABOefeningen\\Reizen2\\Tests\\obj\\",
+        "projectPath": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Tests\\Tests.csproj",
+        "packagesPath": "C:\\Users\\Thoma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Cursist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Thoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
