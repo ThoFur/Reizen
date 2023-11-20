@@ -53,8 +53,22 @@ namespace Reizen2.Models
         void IWerelddelenRepository.DoeBoeking(Boeking boeking)
         {
             context.Boekingen.Add(boeking);
+            
             context.SaveChanges();
             
         }
+        void IWerelddelenRepository.VoegMensenToe(int aantalVol, int aantalKind, int reisId)
+        {
+            var reis = context.Reizen.Find(reisId);
+            if (reis != null)
+            {
+                reis.AantalVolwassenen += aantalVol;
+                reis.AantalKinderen += aantalKind;
+                context.Reizen.Update(reis);
+                context.SaveChanges();
+            }
+        }
+
+        
     }
 }

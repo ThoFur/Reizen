@@ -134,20 +134,25 @@ namespace Reizen2.Controllers
             var reis = werelddelenRepository.GetReis((int)reisId);
             var klantId = HttpContext.Session.GetInt32("KlantId");
             var klant = werelddelenRepository.GetKlant((int)klantId);
-            var boeking = new Boeking
-            {
+            
+                var boeking = new Boeking
+                {
 
-                Klantid = (int)klantId,
-                Reisid = (int)reisId,
-                GeboektOp = DateTime.Now,
-                AantalKinderen = aantalKind,
-                AantalVolwassenen = aantalVol,
-                AnnulatieVerzekering = annulatieVerzekering
+                    Klantid = (int)klantId,
+                    Reisid = (int)reisId,
+                    GeboektOp = DateTime.Now,
+                    AantalKinderen = aantalKind,
+                    AantalVolwassenen = aantalVol,
+                    AnnulatieVerzekering = annulatieVerzekering
 
-            };
-           werelddelenRepository.DoeBoeking(boeking);
-            ViewBag.Boeking = boeking.Id;
-            return View("BoekingToegevoegd", boeking);
+                };
+          
+                werelddelenRepository.DoeBoeking(boeking);
+                werelddelenRepository.VoegMensenToe(aantalVol, aantalKind, (int)reisId);
+                ViewBag.Boeking = boeking.Id;
+                return View("BoekingToegevoegd", boeking);
+          
+            
         }
         public IActionResult Privacy()
         {

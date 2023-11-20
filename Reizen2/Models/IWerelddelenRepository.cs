@@ -13,5 +13,6 @@ namespace Reizen2.Models
         List<Klant> GetKlanten(string naam);
         Klant GetKlant(int id);
         public void  DoeBoeking(Boeking boeking);
+        public void VoegMensenToe(int aantalVol, int aantalKind, int reisId);
     }
 }
