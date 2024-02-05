@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reizen2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55656ff056d177ccc44bb22e86570ef1eb3d6779")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reizen2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reizen2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

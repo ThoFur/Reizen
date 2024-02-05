@@ -206,3 +206,4 @@ C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\refint\Reiz
 C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\Reizen2.pdb
 C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\Reizen2.genruntimeconfig.cache
 C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\ref\Reizen2.dll
+C:\Users\Cursist\VDABOefeningen\Reizen2\Reizen2\obj\Debug\net7.0\Reizen2.sourcelink.json
