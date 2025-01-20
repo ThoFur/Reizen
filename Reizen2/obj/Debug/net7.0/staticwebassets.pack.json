@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Reizen2.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Reizen2.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Reizen2.cd7fvppvcw.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\wwwroot\\css\\site.css",
@@ -567,6 +567,10 @@
     {
       "Id": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Reizen2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Reizen2.Microsoft.AspNetCore.StaticWebAssets.props",

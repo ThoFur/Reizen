@@ -772,7 +772,10 @@
           "System.Configuration.ConfigurationManager": "7.0.0"
         },
         "runtime": {
-          "Model.dll": {}
+          "Model.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

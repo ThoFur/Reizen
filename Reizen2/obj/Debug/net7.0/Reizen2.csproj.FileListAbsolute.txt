@@ -200,9 +200,14 @@ C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\staticwebas
 C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\scopedcss\bundle\Reizen2.styles.css
 C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\scopedcss\projectbundle\Reizen2.bundle.scp.css
-C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\Reizen2.csproj.CopyComplete
 C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\Reizen2.dll
 C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\refint\Reizen2.dll
 C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\Reizen2.pdb
 C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\Reizen2.genruntimeconfig.cache
 C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\ref\Reizen2.dll
+C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\bin\Debug\net7.0\Reizen2.staticwebassets.endpoints.json
+C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\Reizen2.sourcelink.json
+C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\staticwebassets\msbuild.Reizen2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+C:\Users\Thoma\OneDrive\ProjectenMVC\Reizen\Reizen2\obj\Debug\net7.0\Reizen2.csproj.Up2Date

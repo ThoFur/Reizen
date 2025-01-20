@@ -1,0 +1,655 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thoma\\AppData\\Local\\SourceServer\\4c0c22389dfb774eaa29d76c9a3b19956b9d7cbad9c1a5ec362898d0e537cfbf\\Reizen2\\Models\\IWerelddelenRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Thoma\\AppData\\Local\\SourceServer\\c65263caa30fe15f4f0923d69cb211f8333d7cc888c6d56a522d4faa7e201cd7\\Reizen2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\models\\iwerelddelenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\models\\iwerelddelenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\models\\sqlwerelddelenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\models\\sqlwerelddelenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\models\\boekenviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\models\\boekenviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\models\\boekingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\models\\boekingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\views\\home\\boeking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\views\\home\\boeking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\views\\home\\boeken.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\views\\home\\boeken.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\entities\\boeking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\entities\\boeking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\views\\home\\boekenklanten.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\views\\home\\boekenklanten.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\views\\home\\boekingtoegevoegd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\views\\home\\boekingtoegevoegd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\repositories\\reizencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\repositories\\reizencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\repositories\\configurations\\boekingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\repositories\\configurations\\boekingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\views\\home\\bestemmingdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\views\\home\\bestemmingdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\entities\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\entities\\klant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\models\\boekenklantenviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\models\\boekenklantenviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\entities\\reis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\entities\\reis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\entities\\woonplaats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\entities\\woonplaats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\reizen2\\views\\home\\landdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{485C6BE9-13C3-4867-A6B9-156ED283DF21}|Reizen2\\Reizen2.csproj|solutionrelative:reizen2\\views\\home\\landdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\repositories\\configurations\\bestemmingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\repositories\\configurations\\bestemmingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\entities\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\entities\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\entities\\werelddeel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\entities\\werelddeel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\LeverancierController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\PlantController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\repositories\\configurations\\woonplaatsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\repositories\\configurations\\woonplaatsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\repositories\\configurations\\werelddeelconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\repositories\\configurations\\werelddeelconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\repositories\\configurations\\reisconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\repositories\\configurations\\reisconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\repositories\\configurations\\landconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\repositories\\configurations\\landconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\repositories\\configurations\\klantconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\repositories\\configurations\\klantconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\model\\migrations\\20231109170154_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F4BECDA-BDF8-4970-BEC3-D45C4AB1B20D}|Model\\Model.csproj|solutionrelative:model\\migrations\\20231109170154_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D710DD-8433-473F-BD79-DA0DD7C9D988}|Tests\\Tests.csproj|c:\\users\\thoma\\onedrive\\projectenmvc\\reizen\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D710DD-8433-473F-BD79-DA0DD7C9D988}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IWerelddelenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\AppData\\Local\\SourceServer\\4c0c22389dfb774eaa29d76c9a3b19956b9d7cbad9c1a5ec362898d0e537cfbf\\Reizen2\\Models\\IWerelddelenRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\4c0c22389dfb774eaa29d76c9a3b19956b9d7cbad9c1a5ec362898d0e537cfbf\\Reizen2\\Models\\IWerelddelenRepository.cs",
+              "ToolTip": "C:\\Users\\Thoma\\AppData\\Local\\SourceServer\\4c0c22389dfb774eaa29d76c9a3b19956b9d7cbad9c1a5ec362898d0e537cfbf\\Reizen2\\Models\\IWerelddelenRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\4c0c22389dfb774eaa29d76c9a3b19956b9d7cbad9c1a5ec362898d0e537cfbf\\Reizen2\\Models\\IWerelddelenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:52:28.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\AppData\\Local\\SourceServer\\c65263caa30fe15f4f0923d69cb211f8333d7cc888c6d56a522d4faa7e201cd7\\Reizen2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\c65263caa30fe15f4f0923d69cb211f8333d7cc888c6d56a522d4faa7e201cd7\\Reizen2\\Program.cs",
+              "ToolTip": "C:\\Users\\Thoma\\AppData\\Local\\SourceServer\\c65263caa30fe15f4f0923d69cb211f8333d7cc888c6d56a522d4faa7e201cd7\\Reizen2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\c65263caa30fe15f4f0923d69cb211f8333d7cc888c6d56a522d4faa7e201cd7\\Reizen2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T21:51:47.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWerelddelenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Models\\IWerelddelenRepository.cs",
+              "RelativeDocumentMoniker": "Reizen2\\Models\\IWerelddelenRepository.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Models\\IWerelddelenRepository.cs",
+              "RelativeToolTip": "Reizen2\\Models\\IWerelddelenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Boeken.cshtml",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\Boeken.cshtml",
+              "RelativeDocumentMoniker": "Reizen2\\Views\\Home\\Boeken.cshtml",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\Boeken.cshtml",
+              "RelativeToolTip": "Reizen2\\Views\\Home\\Boeken.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAIBJwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-14T20:59:29.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLWerelddelenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Models\\SQLWerelddelenRepository.cs",
+              "RelativeDocumentMoniker": "Reizen2\\Models\\SQLWerelddelenRepository.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Models\\SQLWerelddelenRepository.cs",
+              "RelativeToolTip": "Reizen2\\Models\\SQLWerelddelenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Program.cs",
+              "RelativeDocumentMoniker": "Reizen2\\Program.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Program.cs",
+              "RelativeToolTip": "Reizen2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\appsettings.json",
+              "RelativeDocumentMoniker": "Reizen2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\appsettings.json",
+              "RelativeToolTip": "Reizen2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-14T20:59:29.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Boeking.cshtml",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\Boeking.cshtml",
+              "RelativeDocumentMoniker": "Reizen2\\Views\\Home\\Boeking.cshtml",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\Boeking.cshtml",
+              "RelativeToolTip": "Reizen2\\Views\\Home\\Boeking.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBJwB0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-14T20:59:29.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Boeking.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Entities\\Boeking.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\Boeking.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Entities\\Boeking.cs",
+              "RelativeToolTip": "Model\\Entities\\Boeking.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Reizen2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Reizen2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwJIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BoekingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Models\\BoekingViewModel.cs",
+              "RelativeDocumentMoniker": "Reizen2\\Models\\BoekingViewModel.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Models\\BoekingViewModel.cs",
+              "RelativeToolTip": "Reizen2\\Models\\BoekingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BoekenViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Models\\BoekenViewModel.cs",
+              "RelativeDocumentMoniker": "Reizen2\\Models\\BoekenViewModel.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Models\\BoekenViewModel.cs",
+              "RelativeToolTip": "Reizen2\\Models\\BoekenViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BoekingToegevoegd.cshtml",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\BoekingToegevoegd.cshtml",
+              "RelativeDocumentMoniker": "Reizen2\\Views\\Home\\BoekingToegevoegd.cshtml",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\BoekingToegevoegd.cshtml",
+              "RelativeToolTip": "Reizen2\\Views\\Home\\BoekingToegevoegd.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-15T13:29:12.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BoekenKlanten.cshtml",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\BoekenKlanten.cshtml",
+              "RelativeDocumentMoniker": "Reizen2\\Views\\Home\\BoekenKlanten.cshtml",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\BoekenKlanten.cshtml",
+              "RelativeToolTip": "Reizen2\\Views\\Home\\BoekenKlanten.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwCoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-14T20:59:29.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReizenContext.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\ReizenContext.cs",
+              "RelativeDocumentMoniker": "Model\\Repositories\\ReizenContext.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\ReizenContext.cs",
+              "RelativeToolTip": "Model\\Repositories\\ReizenContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BoekingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\Configurations\\BoekingConfiguration.cs",
+              "RelativeDocumentMoniker": "Model\\Repositories\\Configurations\\BoekingConfiguration.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\Configurations\\BoekingConfiguration.cs",
+              "RelativeToolTip": "Model\\Repositories\\Configurations\\BoekingConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Reis.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Entities\\Reis.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\Reis.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Entities\\Reis.cs",
+              "RelativeToolTip": "Model\\Entities\\Reis.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Reizen2\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Reizen2\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-11-14T21:13:41.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Klant.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Entities\\Klant.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\Klant.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Entities\\Klant.cs",
+              "RelativeToolTip": "Model\\Entities\\Klant.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BestemmingDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\BestemmingDetail.cshtml",
+              "RelativeDocumentMoniker": "Reizen2\\Views\\Home\\BestemmingDetail.cshtml",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\BestemmingDetail.cshtml",
+              "RelativeToolTip": "Reizen2\\Views\\Home\\BestemmingDetail.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-14T20:59:29.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BoekenKlantenViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Models\\BoekenKlantenViewModel.cs",
+              "RelativeDocumentMoniker": "Reizen2\\Models\\BoekenKlantenViewModel.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Models\\BoekenKlantenViewModel.cs",
+              "RelativeToolTip": "Reizen2\\Models\\BoekenKlantenViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Woonplaats.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Entities\\Woonplaats.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\Woonplaats.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Entities\\Woonplaats.cs",
+              "RelativeToolTip": "Model\\Entities\\Woonplaats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Reizen2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Reizen2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-14T20:59:29.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Reizen2\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "Reizen2\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-14T20:59:29.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Land.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Entities\\Land.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\Land.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Entities\\Land.cs",
+              "RelativeToolTip": "Model\\Entities\\Land.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BestemmingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\Configurations\\BestemmingConfiguration.cs",
+              "RelativeDocumentMoniker": "Model\\Repositories\\Configurations\\BestemmingConfiguration.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\Configurations\\BestemmingConfiguration.cs",
+              "RelativeToolTip": "Model\\Repositories\\Configurations\\BestemmingConfiguration.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LandDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\LandDetail.cshtml",
+              "RelativeDocumentMoniker": "Reizen2\\Views\\Home\\LandDetail.cshtml",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Reizen2\\Views\\Home\\LandDetail.cshtml",
+              "RelativeToolTip": "Reizen2\\Views\\Home\\LandDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-14T20:59:29.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LeverancierController.cs",
+              "DocumentMoniker": "C:\\Users\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\LeverancierController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\LeverancierController.cs",
+              "ToolTip": "C:\\Users\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\LeverancierController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\LeverancierController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-10T14:16:20.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\HomeController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-10T14:16:05.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Werelddeel.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Entities\\Werelddeel.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\Werelddeel.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Entities\\Werelddeel.cs",
+              "RelativeToolTip": "Model\\Entities\\Werelddeel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "KlantConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\Configurations\\KlantConfiguration.cs",
+              "RelativeDocumentMoniker": "Model\\Repositories\\Configurations\\KlantConfiguration.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\Configurations\\KlantConfiguration.cs",
+              "RelativeToolTip": "Model\\Repositories\\Configurations\\KlantConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PlantController.cs",
+              "DocumentMoniker": "C:\\Users\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\PlantController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\PlantController.cs",
+              "ToolTip": "C:\\Users\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\PlantController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Cursist\\VDABOefeningen\\TuincentrumSolution\\Tuincentrum\\Controllers\\PlantController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-10T14:10:48.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LandConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\Configurations\\LandConfiguration.cs",
+              "RelativeDocumentMoniker": "Model\\Repositories\\Configurations\\LandConfiguration.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\Configurations\\LandConfiguration.cs",
+              "RelativeToolTip": "Model\\Repositories\\Configurations\\LandConfiguration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAxwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReisConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\Configurations\\ReisConfiguration.cs",
+              "RelativeDocumentMoniker": "Model\\Repositories\\Configurations\\ReisConfiguration.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\Configurations\\ReisConfiguration.cs",
+              "RelativeToolTip": "Model\\Repositories\\Configurations\\ReisConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WerelddeelConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\Configurations\\WerelddeelConfiguration.cs",
+              "RelativeDocumentMoniker": "Model\\Repositories\\Configurations\\WerelddeelConfiguration.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\Configurations\\WerelddeelConfiguration.cs",
+              "RelativeToolTip": "Model\\Repositories\\Configurations\\WerelddeelConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WoonplaatsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\Configurations\\WoonplaatsConfiguration.cs",
+              "RelativeDocumentMoniker": "Model\\Repositories\\Configurations\\WoonplaatsConfiguration.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Repositories\\Configurations\\WoonplaatsConfiguration.cs",
+              "RelativeToolTip": "Model\\Repositories\\Configurations\\WoonplaatsConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Model.csproj",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "Model\\Model.csproj",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Model.csproj",
+              "RelativeToolTip": "Model\\Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-11-14T20:59:29.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20231109170154_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Migrations\\20231109170154_Initial.cs",
+              "RelativeDocumentMoniker": "Model\\Migrations\\20231109170154_Initial.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Model\\Migrations\\20231109170154_Initial.cs",
+              "RelativeToolTip": "Model\\Migrations\\20231109170154_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Thoma\\OneDrive\\ProjectenMVC\\Reizen\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-14T20:59:29.752Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 700,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
